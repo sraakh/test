@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>captch1.png</file>
+        <file>captch2.png</file>
+        <file>captch3.png</file>
+        <file>captcha4.jfif</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
